@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<toys>
+    <toy>
+        <country> Беларусь </country>
+        <maker> Полесье </maker>
+        <shop> ТЦ Green </shop>
+        <material> Пластик </material>
+        <name> Детская пирамидка </name>
+        <price> 3130 </price>
+    </toy>
+    <toy>
+        <country> Россия </country>
+        <maker> НИК </maker>
+        <shop> OZ.by </shop>
+        <material> Пластик, металл </material>
+        <name> Набор машинок (12 шт.) </name>
+        <price> 10900 </price>
+    </toy>
+</toys>
